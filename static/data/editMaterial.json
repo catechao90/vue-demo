@@ -1,0 +1,19 @@
+{
+    "code": "200",
+    "msg": "操作成功",
+    "result": {
+        "applyId":"applyId",
+        "materialId":"materialId",
+        "name":"张三",
+        "idCard":"410225198909101234",
+        "idCardPicUrlA":{
+            "key":"2",
+            "url":"http://digg.chinaxy.org/attachments/3/33384981e2b39481987459fd32ddb16f.jpg"
+        },
+        "idCardPicUrlB":{
+            "key":"1",
+            "url":"http://digg.chinaxy.org/attachments/3/33384981e2b39481987459fd32ddb16f.jpg"
+        },
+        "address":9999
+    }
+}
